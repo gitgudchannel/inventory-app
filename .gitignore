@@ -32,6 +32,7 @@
 npm-debug.log
 testem.log
 /typings
+inventory-app.iml
 
 # e2e
 /e2e/*.js
